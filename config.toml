@@ -1,0 +1,4 @@
+baseURL = "https://acuracarweerfytu.vercel.app"
+languageCode = "en-us"
+title = "Acura TSX Japan"
+theme = "hugo-theme-minos"
